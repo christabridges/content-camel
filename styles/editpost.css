@@ -1,0 +1,17 @@
+.container__back-link {
+    text-decoration: none;
+    color: #0072B1;
+    margin-bottom: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.form__submit-delete {
+    background-color: #E31725;
+}
+
+.form__submit-delete:hover {
+    background-color: #CF1723;
+}
